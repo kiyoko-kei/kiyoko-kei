@@ -1,0 +1,1760 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clipFooter">
+      <rect x="0" y="0" width="1200" height="130" rx="14" ry="14"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clipFooter)">
+    <rect x="0" y="0" width="1200" height="130" fill="#0d1117" rx="14" ry="14"/>
+      <g transform="translate(13,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.05s" begin="-1.51s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(39,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.1s" begin="-1.57s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(65,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.17s" begin="-0.28s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(91,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.15s" begin="-2.38s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(117,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.37s" begin="-1.27s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(143,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.38s" begin="-1.5s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(170,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.4s" begin="-2.16s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(196,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.02s" begin="-3.16s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(222,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.39s" begin="-3.52s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(248,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.4s" begin="-2.4s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(274,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.02s" begin="-1.97s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(300,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.31s" begin="-2.01s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(326,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.44s" begin="-5.37s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(352,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.8s" begin="-2.24s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(378,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.1s" begin="-3.09s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(404,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.92s" begin="-1.26s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(430,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.68s" begin="-0.63s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(457,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.14s" begin="-1.66s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(483,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.55s" begin="-1.8s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(509,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.25s" begin="-3.96s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(535,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.02s" begin="-1.37s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(561,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.3s" begin="-3.95s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(587,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.69s" begin="-1.46s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(613,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.57s" begin="-1.72s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(639,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.05s" begin="-0.5s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(665,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.37s" begin="-0.87s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(691,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="2.89s" begin="-2.81s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(717,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="2.98s" begin="-2.84s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(743,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.44s" begin="-1.07s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(770,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.08s" begin="-2.67s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(796,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.34s" begin="-3.08s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(822,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.69s" begin="-0.3s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(848,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.18s" begin="-4.13s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(874,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.13s" begin="-2.68s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(900,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.52s" begin="-0.53s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(926,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.28s" begin="-2.68s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(952,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.95s" begin="-1.32s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(978,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.2s" begin="-0.34s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(1004,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.24s" begin="-1.09s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(1030,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.61s" begin="-2.36s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(1057,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.78s" begin="-0.3s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">1</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(1083,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="4.24s" begin="-1.35s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">1</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(1109,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.81s" begin="-0.71s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(1135,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.59s" begin="-1.42s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">0</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+  <g transform="translate(1161,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="3.49s" begin="-3.36s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">1</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">1</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">0</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">1</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">0</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+    </g>
+  </g>
+  <g transform="translate(1187,0)">
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate"
+        from="0,-320" to="0,0" dur="5.29s" begin="-1.55s" repeatCount="indefinite"/>
+      <text x="0" y="0" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="20" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="40" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="60" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="80" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="100" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="120" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="140" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="160" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="180" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="200" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="220" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="240" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="260" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="280" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="300" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="320" font-family="Consolas, Menlo, monospace" font-size="15" fill="#E9FFEF">0</text>
+      <text x="0" y="340" font-family="Consolas, Menlo, monospace" font-size="15" fill="#9CFFC0">0</text>
+      <text x="0" y="360" font-family="Consolas, Menlo, monospace" font-size="15" fill="#4DFF8E">1</text>
+      <text x="0" y="380" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00E673">0</text>
+      <text x="0" y="400" font-family="Consolas, Menlo, monospace" font-size="15" fill="#00B85C">1</text>
+      <text x="0" y="420" font-family="Consolas, Menlo, monospace" font-size="15" fill="#008F47">0</text>
+      <text x="0" y="440" font-family="Consolas, Menlo, monospace" font-size="15" fill="#066b39">0</text>
+      <text x="0" y="460" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d4a2b">1</text>
+      <text x="0" y="480" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="500" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="520" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="540" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="560" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">0</text>
+      <text x="0" y="580" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="600" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+      <text x="0" y="620" font-family="Consolas, Menlo, monospace" font-size="15" fill="#0d1117">1</text>
+    </g>
+  </g>
+    <rect x="0" y="0" width="1200" height="130" fill="#0d1117" opacity="0.0"/>
+  </g>
+</svg>
