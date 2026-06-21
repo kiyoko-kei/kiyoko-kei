@@ -2,11 +2,13 @@
 <img width="100%" src="assets/matrix-header.svg" alt="header"/>
 </div>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek+%F0%9F%8C%B2;Learning+Machine+Learning%2C+one+model+at+a+time;Turning+coffee+into+clean+code;Always+down+for+a+good+debugging+story&font=Fira+Code&center=true&width=600&height=45&color=2EC4B6&vCenter=true&size=20&pause=1000">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek+%F0%9F%8C%B2;Learning+Machine+Learning%2C+one+model+at+a+time;Turning+coffee+into+clean+code;Always+down+for+a+good+debugging+story&font=Fira+Code&center=true&width=600&height=45&color=FF4D6D&vCenter=true&size=20&pause=1000">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek;&font=Fira+Code&center=true&width=600&height=45&color=FF4D6D&vCenter=true&size=20" alt="typing-svg">
 </picture>
+</div>
 
 <br/>
 
