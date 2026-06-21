@@ -19,7 +19,7 @@
 <img width="200" src="https://media.tenor.com/LSDeBe2JAfoAAAAd/cat-coding.gif" alt="cute coding cat"/>
 
 <br/>
-<sub><i>art by <a href="https://tenor.com/users/dinopianito">Dinopianito</a> on Tenor &nbsp;·&nbsp; me debugging at 2am and somehow winning</i></sub>
+<sub><i>me debugging at 2am and somehow winning</i></sub>
 
 </div>
 
