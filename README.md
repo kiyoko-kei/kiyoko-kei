@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![Rica's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyoko-kei&show_icons=true&theme=default)
+![Rica's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyoko-kei&show_icons=true&theme=default&count_private=true)
 
 ## 🎯 Current Focus
 
