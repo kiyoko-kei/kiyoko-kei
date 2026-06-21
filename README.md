@@ -1,8 +1,8 @@
 
 # Hi there, I'm Rica 👋
 
-# 🎓 BS Information Technology – Information Management Student
-# 📍 Bukidnon, Philippines
+### 🎓 BS Information Technology – Information Management Student
+### 📍 Bukidnon, Philippines
 
 - 🔭 Currently working on **CMUTrek**, a Tourism and Booking Management Web App (my capstone project)
 - 🌱 Expanding my knowledge in **Machine Learning**, data analytics, and modern web development
