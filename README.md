@@ -1,23 +1,25 @@
 <div align="center">
 <img width="100%" src="assets/matrix-header.svg" alt="header"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek+%F0%9F%8C%B2;Learning+Machine+Learning%2C+one+model+at+a+time;Turning+coffee+into+clean+code;Always+down+for+a+good+debugging+story&font=Fira+Code&center=true&width=600&height=45&color=2EC4B6&vCenter=true&size=20&pause=1000">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek+%F0%9F%8C%B2;Learning+Machine+Learning%2C+one+model+at+a+time;Turning+coffee+into+clean+code;Always+down+for+a+good+debugging+story&font=Fira+Code&center=true&width=600&height=45&color=FF4D6D&vCenter=true&size=20&pause=1000">
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek;&font=Fira+Code&center=true&width=600&height=45&color=FF4D6D&vCenter=true&size=20" alt="typing-svg">
 </picture>
-</div>
 
 <br/>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=kiyoko-kei&color=FF4D6D&style=flat-square&label=Profile+Views" alt="profile views"/>
 
 <br/><br/>
 
-<img width="220" src="https://media.tenor.com/LSDeBe2JAfoAAAAd/cat-coding.gif" alt="cute coding cat"/>
+<img width="200" src="https://media.tenor.com/LSDeBe2JAfoAAAAd/cat-coding.gif" alt="cute coding cat"/>
 
 <br/>
-<sub><i>art by <a href="https://tenor.com/users/dinopianito">Dinopianito</a> on Tenor</i></sub>
+<sub><i>art by <a href="https://tenor.com/users/dinopianito">Dinopianito</a> on Tenor &nbsp;·&nbsp; me debugging at 2am and somehow winning</i></sub>
 
 </div>
 
@@ -49,17 +51,13 @@ Hi, I'm Rica. I am a BS Information Technology student at Central Mindanao Unive
 
 ## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,python,dart,php,mysql,git,github,figma&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nodejs,python,dart,php,mysql,git,github,figma&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,dart,php,mysql,git,github,figma&theme=light" alt="tech stack icons">
-</picture>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,dart,php,mysql,git,github,figma" alt="tech stack icons" />
+</div>
 
-<br/><br/>
+<br/>
 
 ## 📊 GitHub Stats
-
-<img width="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5neXEwY25md2NzZWR0Njd1c2l2aXg0ZWNjbXp1aXQ0dHd0emI3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VePtB3roynxfLYicuV/giphy.gif" alt="cute gif"/>
 
 <p align="center">
 
