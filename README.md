@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,50:FFD23F,100:2EC4B6&height=220&section=header&text=Hi%20there,%20I%27m%20Rica!&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=BSIT%20-%20Major%20in%20Information%20Management&descAlignY=53&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="assets/matrix-header.svg" alt="header"/>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek+%F0%9F%8C%B2;Learning+Machine+Learning%2C+one+model+at+a+time;Turning+coffee+into+clean+code;Always+down+for+a+good+debugging+story&font=Fira+Code&center=true&width=600&height=45&color=2EC4B6&vCenter=true&size=20&pause=1000">
@@ -90,7 +90,5 @@ Hi, I'm Rica. I am a BS Information Technology student at Central Mindanao Unive
 <br/>
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:FFD23F,100:FF4D6D&height=120&section=footer&animation=fadeIn"/>
-
+<img width="100%" src="assets/matrix-footer.svg"/>
 </div>
