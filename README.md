@@ -43,7 +43,12 @@
 
 <img align="right" width="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxzb2I1eHJyd211djRpM25zNGo5M3BidzBzOHhyeDJpMjZkbnRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xev2JdopBxGj1LuGvt/giphy.gif" alt="cute gif"/>
 
-Hi, I'm Rica. I am a BS Information Technology student at Central Mindanao University, majoring in Information Management. I think in databases, dream in component trees, and I'm slowly getting better at not pushing straight to `main`.
+Hi, I'm Rica — a BS Information Technology student at Central Mindanao University, majoring in Information Management. Which is a formal way of saying: I think in databases, dream in component trees, and I'm slowly getting better at not pushing straight to main.
+Outside of that, I recharge by doing absolutely nothing — horizontal, staring at the ceiling, thoughts on airplane mode. If that stops working, I find someone to ragebait. It's a system.
+
+I want to become someone I'll never regret becoming. I want to go to the places I've always wanted to go. Somewhere in all of that, I believe in hope — not the easy kind, but the kind that stays whether something is coming, not coming, or anywhere in between. I think the moment you lose hope, you lose the courage to begin again. And beginning again is the whole point.
+
+Oh — and if I've already eaten something once today, it's dead to me for the rest of the day. Breakfast and lunch? That dish is retired by dinner.
 
 - 🎓 Studying **Information Technology – Information Management** at Central Mindanao University, Bukidnon, Philippines
 - 🌱 Currently expanding into **Machine Learning** and **Big Data Analytics**
@@ -88,6 +93,16 @@ Hi, I'm Rica. I am a BS Information Technology student at Central Mindanao Unive
 </p>
 
 <br/>
+
+## 📬 Reach Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ricajean.lagamao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lagamaoricajean@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/histo_rica_l)
+
+</div>
 
 <div align="center">
 <img width="100%" src="assets/matrix-footer.svg"/>
