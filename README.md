@@ -1,31 +1,75 @@
+<div align="center">
 
-# Hi there, I'm Rica 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,100:FFD500&height=220&section=header&text=Hi%20there,%20I%27m%20Rica!&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=BSIT%20-%20Information%20Management%20%7C%20Builder%20of%20CMUTrek&descAlignY=53&descSize=18&animation=fadeIn" alt="header"/>
 
-### 🎓 BS Information Technology – Information Management Student
-### 📍 Bukidnon, Philippines
+<img src="https://readme-typing-svg.demolab.com/?lines=Currently+building+CMUTrek+%F0%9F%8C%B2;Learning+Machine+Learning%2C+one+model+at+a+time;Turning+coffee+into+clean+code;Always+down+for+a+good+debugging+story&font=Fira+Code&center=true&width=600&height=45&color=1B4332&vCenter=true&size=20&pause=1000" alt="typing-svg" />
 
-- 🔭 Currently working on **CMUTrek**, a Tourism and Booking Management Web App (my capstone project)
-- 🌱 Expanding my knowledge in **Machine Learning**, data analytics, and modern web development
-- 💻 Passionate about building practical solutions through software development and information systems
+<br/>
 
-## 🛠️ Technologies
+<img src="https://komarev.com/ghpvc/?username=kiyoko-kei&color=1B4332&style=flat-square&label=Profile+Views" alt="profile views"/>
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🧭 *Fernweh*
+
+> **Fernweh** — my favorite word. It has no direct English translation, but it means an intense longing to travel and explore distant, unknown places — a kind of heartache for the things we haven't yet seen.
+>
+> I think programming is a lot like that. There are paths we want to take but can't, possibilities we don't fully understand yet — and still, we try anyway. The bugs and the error logs don't lie, and sometimes the truth they tell us hurts. But we keep building. Because we hope.
+
+</div>
+
+<br/>
+
+## 🌲 About Me
+
+Hi, I'm Rica. I am a BS Information Technology student at Central Mindanao University, majoring in Information Management. I think in databases, dream in component trees, and I'm slowly getting better at not pushing straight to `main`.
+
+- 🎓 Studying **Information Technology – Information Management** at Central Mindanao University, Bukidnon, Philippines
+- 🌱 Currently expanding into **Machine Learning** and **Big Data Analytics**
+- 💻 Still leveling up across the stack — frontend, backend, and database design
+- ☕ Learning the ropes of code reviews and team collaboration, one PR at a time
+- 🧩 Untangling messy schemas is scary, but I'm slowly getting less scared of it
+
+<br/>
+
+## 🚀 What I'm Currently Building — CMUTrek
+
+A full-stack **Tourism Management System** built as my capstone, with a groupmate.
+
+| Layer | Stack |
+|---|---|
+| Frontend | React + Vite + Tailwind CSS |
+| Backend | Node.js + Express.js |
+| Database | MySQL |
+| Auth | JWT + bcrypt, with role-based access control |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,dart,php,mysql,git,github,figma&theme=dark" alt="tech stack icons"/>
+
+<br/><br/>
 
 ## 📊 GitHub Stats
 
-![Rica's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyoko-kei&show_icons=true&theme=default&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiyoko-kei&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFD500&icon_color=74C69D&text_color=c9d1d9" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyoko-kei&hide_border=true&background=0D1117&ring=FFD500&fire=FFD500&currStreakLabel=74C69D" width="48%"/>
+</p>
 
-## 🎯 Current Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoko-kei&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFD500&text_color=c9d1d9" width="48%"/>
+</p>
 
-- Full-Stack Web Development
-- Machine Learning Fundamentals
-- Database Design and Management
-- Mobile Application Development
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD500,100:1B4332&height=120&section=footer&animation=fadeIn"/>
+
+</div>
