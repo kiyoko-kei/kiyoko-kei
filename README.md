@@ -31,8 +31,6 @@
   
 > **Fernweh** — my favorite word. It has no direct English translation, but it means an intense longing to travel and explore distant, unknown places — a kind of heartache for the things we haven't yet seen.
 >
-> Programming feels like that. There are possibilities just out of reach — entire systems we can almost understand but not quite, a horizon that keeps moving as we walk toward it. The bugs and the error logs are honest about how far we still have to go. Sometimes that truth stings. But we keep building anyway. Because somewhere ahead is something we haven't made yet. Because we hope.
-
 </div>
 
 <br/>
