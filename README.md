@@ -28,9 +28,7 @@
 <br/>
 
 <div align="center">
-
-### 🧭 *Fernweh*
-
+  
 > **Fernweh** — my favorite word. It has no direct English translation, but it means an intense longing to travel and explore distant, unknown places — a kind of heartache for the things we haven't yet seen.
 >
 > Programming feels like that. There are possibilities just out of reach — entire systems we can almost understand but not quite, a horizon that keeps moving as we walk toward it. The bugs and the error logs are honest about how far we still have to go. Sometimes that truth stings. But we keep building anyway. Because somewhere ahead is something we haven't made yet. Because we hope.
@@ -43,13 +41,16 @@
 
 <img align="right" width="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxzb2I1eHJyd211djRpM25zNGo5M3BidzBzOHhyeDJpMjZkbnRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xev2JdopBxGj1LuGvt/giphy.gif" alt="cute gif"/>
 
-Hi, I'm Rica — a BS Information Technology student at Central Mindanao University, majoring in Information Management.
+Hi, I'm Rica, a Bachelor of Science in Information Technology student at Central Mindanao University, specializing in Information Management. I am currently expanding my knowledge in Artificial Intelligence, with a particular focus on Machine Learning and Deep Learning.
+
+As AI continues to evolve rapidly, I am fascinated by how these technologies can perform tasks that often seem like magic. Rather than simply using AI tools, I am passionate about understanding the underlying concepts, algorithms, and processes that make them work, as well as the reasons behind their development and design.
+
+In addition to AI, I am actively exploring React and Node.js to strengthen my web development skills and build modern, scalable applications. I also work with Python for developing, training, and improving machine learning models while continuously learning new techniques and best practices in the field.
 
 - 🎓 Studying **Information Technology – Information Management** at Central Mindanao University, Bukidnon, Philippines
-- 🌱 Currently expanding into **Machine Learning** and **Big Data Analytics**
-- 💻 Still leveling up across the stack — frontend, backend, and database design
-- ☕ Learning the ropes of code reviews and team collaboration
-- 🧩 Untangling messy schemas is scary, but I'm slowly getting less scared of it
+- 🌱 Currently expanding into **Machine Learning** and **Deep Learning**
+- 💻 Exploring React, Node.js, and Python for web development and AI-related projects
+- 🚀 Still leveling up across the stack — frontend, backend, and database design
 
 ## 🛠️ Tech Stack
 
