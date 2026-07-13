@@ -43,7 +43,7 @@ Hi, I'm Rica, a Bachelor of Science in Information Technology student at Central
 
 As AI continues to evolve rapidly, I am fascinated by how these technologies can perform tasks that often seem like magic. Rather than simply using AI tools, I am passionate about understanding the underlying concepts, algorithms, and processes that make them work, as well as the reasons behind their development and design.
 
-In addition to AI, I am actively exploring React and Node.js to strengthen my web development skills and build modern, scalable applications. I also work with Python for developing, training, and improving machine learning models while continuously learning new techniques and best practices in the field.
+In addition to AI, I am exploring React and Node.js to strengthen my web development skills and build modern, scalable applications. I also work with Python for developing, training, and improving machine learning models while continuously learning new techniques and best practices in the field.
 
 - 🎓 Studying **Information Technology – Information Management** at Central Mindanao University, Bukidnon, Philippines
 - 🌱 Currently expanding into **Machine Learning** and **Deep Learning**
